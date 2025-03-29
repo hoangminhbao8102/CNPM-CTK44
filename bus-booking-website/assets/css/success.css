@@ -1,0 +1,29 @@
+.success-box {
+    background: #fff;
+    padding: 30px;
+    margin: 40px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+.success-box h2 {
+    color: #28a745;
+    margin-bottom: 20px;
+}
+.success-box p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.btn:hover {
+    background: #0056b3;
+}
